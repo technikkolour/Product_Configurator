@@ -1,0 +1,11 @@
+Raft Building
+- Integrated into a game focused on raft racing
+- The rafts can be customised by using different materials for them and by adding different attachments that modify the stats
+- Stats:
+	- floatability
+	- speed
+	- durability
+	- (BONUS) style
+- The user can compete against friends or pre-made players
+- The first raft to cross the finish line wins the main prize
+- There are other prizes to be won
